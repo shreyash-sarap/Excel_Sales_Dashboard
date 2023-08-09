@@ -1,6 +1,8 @@
 # Excel_Sales_Dashboard
 Sales Performance Dashboard for Course Advertisement Analysis
 
+![Excel_Sales_Dashboard_page-0001](https://github.com/shreyash-sarap/Excel_Sales_Dashboard/assets/101419054/4e69d970-1103-4369-8fd1-0d6f0f9a5b0f)
+
 **Overview:**
 In this Excel project, I have developed a comprehensive sales performance dashboard that provides valuable insights into the effectiveness of different course advertisements run on various platforms, including Facebook, WhatsApp, Television ads, YouTube channels, and the company website. The dashboard analyzes key metrics such as the number of calls generated from the website, average call duration, and other relevant data. Additionally, to facilitate data exploration and visualization, various pivot tables and charts, including line charts, area charts, bar charts, pie charts, donut charts, and radar charts, have been incorporated.
 
